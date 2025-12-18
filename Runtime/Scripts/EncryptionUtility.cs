@@ -11,7 +11,6 @@ namespace ThornDuck.SaveSystem.Encryption
     /// </summary>
     /// <seealso cref="SaveSystem"/>
     /// <author>Murilo M. Grosso</author>
-    /// <version>1.0.0</version>
     public static class EncryptionUtility
     {
         // Must be 32 bytes long

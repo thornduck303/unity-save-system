@@ -10,7 +10,6 @@ namespace ThornDuck.SaveSystem
     /// </summary>
     /// <seealso cref="EncryptionUtility"/>
     /// <author>Murilo M. Grosso</author>
-    /// <version>1.1.0</version>
     public static class SaveSystem
     {
         private const string NAME = "save";
