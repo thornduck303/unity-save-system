@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "displayName": "Save System",
     "description": "Slot-based save system.",
-    "unity": "6000.2.10f1",
+    "unity": "6000.2",
     "author": {
         "name": "Murilo M. Grosso"
     }
