@@ -1,2 +1,2 @@
-# unity-save-system
-Slot-based save system for Unity
+# Save System
+Slot-based save system for Unity.
